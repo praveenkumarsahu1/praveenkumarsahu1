@@ -1,5 +1,5 @@
 
-# 👋 Hello, I’m \Praveen Kumar Sahu
+# 👋 Hello, I’m Praveen Kumar Sahu
 
 💻 Data Analyst | 📱 Android Enthusiast | 🌱 Lifelong Learner
 
@@ -9,7 +9,7 @@
 
 * 🔭 I’m currently  **\[Student]**
 * 🌱 Learning **\[Technology / Skill you’re focusing on]**
-* 💡 Interested in **Mobile Development | AI | Open Source**
+* 💡 Interested in **\[Mobile Development | AI | Open Source]**
 * 📫 Reach me at: **\[Gmail : praveenkumarsahu17@gmail.com]**
 
 ---
