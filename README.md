@@ -1,5 +1,5 @@
 
-# 👋 Hello, I’m \[Praveen Kumar Sahu]
+# 👋 Hello, I’m \Praveen Kumar Sahu
 
 💻 Data Analyst | 📱 Android Enthusiast | 🌱 Lifelong Learner
 
