@@ -7,10 +7,10 @@
 
 ## 🧑 About Me
 
-* 🔭 I’m currently a **\Student**
+* 🔭 I’m currently a **Student**
 * 🌱 Learning **\[Technology / Skill you’re focusing on]**
 * 💡 Interested in **\[Mobile Development | AI | Open Source]**
-* 📫 Reach me at: **\[Gmail : praveenkumarsahu17@gmail.com]**
+* 📫 Reach me at: **praveenkumarsahu17@gmail.com**
 
 ---
 
