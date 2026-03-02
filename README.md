@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-<h1 align="center">Hi 👋, I'm Praveen</h1>
+<h1 align="center">Hi , I'm Praveen Kumar Sahu</h1>
 <h3 align="center">🚀 AI & Data Science Student | ML Enthusiast | Future AI Engineer</h3>
 
 <!-- Typing Animation -->
@@ -59,20 +59,12 @@ Predictive ML model identifying diabetes risk
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=praveenkumarsahu1&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumarsahu1&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&margin-w=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumarsahu1&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -80,14 +72,11 @@ Predictive ML model identifying diabetes risk
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="your-linkedin-link">
+  <a href="https://www.linkedin.com/in/praveen-kumar-sahu-9090472b8/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-praveenkumarsahu17@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="your-portfolio-link">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
 
@@ -104,7 +93,7 @@ Predictive ML model identifying diabetes risk
 ### 👀 Visitor Count  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=praveenkumarsahu1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
